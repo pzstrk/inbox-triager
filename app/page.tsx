@@ -1,3 +1,5 @@
+"use client"
+
 import { useState } from 'react'
 import { useInbox } from '../hooks/useInbox'
 import { useRouter } from 'next/navigation'
